@@ -4,6 +4,7 @@ import http.client
 import json
 
 PORT = 8000
+socketserver.TCPServer.allow_reuse_address = True
 
 class TestHandler(http.server.BaseHTTPRequestHandler):
 
