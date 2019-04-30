@@ -55,7 +55,7 @@ class TestHandler(http.server.BaseHTTPRequestHandler):
                                                      <meta charset="utf-8">
                                                      <title>List Species</title>
                                                    </head>
-                                                   <body style="background-color: #7cc3f3;">
+                                                   <body style="background-color: #DAF7A6;">
                                                      <h1>List of species</h1>
                                                      <l>{}</l>
                                                      <br><br>
@@ -103,7 +103,7 @@ class TestHandler(http.server.BaseHTTPRequestHandler):
                                              <meta charset="utf-8">
                                              <title>List Species</title>
                                            </head>
-                                           <body style="background-color: #7cc3f3;">
+                                           <body style="background-color: #DAF7A6;">
                                              <h1>List of species</h1>
                                              <l>{}</l>
                                              <br><br>
@@ -152,7 +152,7 @@ class TestHandler(http.server.BaseHTTPRequestHandler):
                                      <meta charset="utf-8">
                                      <title>Karyotype</title>
                                    </head>
-                                   <body style="background-color: #7cc3f3;">
+                                   <body style="background-color: #DAF7A6;">
                                      <h1>Karyotype</h1>
                                      <l>{}</l>
                                      <br><br>
@@ -205,7 +205,7 @@ class TestHandler(http.server.BaseHTTPRequestHandler):
                                              <meta charset="utf-8">
                                              <title>Chromosome length</title>
                                            </head>
-                                           <body style="background-color: #7cc3f3;">
+                                           <body style="background-color: #DAF7A6;">
                                              <h1>Chromosome length</h1>
                                              <l>{}: {}</l>
                                              <br><br>
@@ -272,7 +272,7 @@ class TestHandler(http.server.BaseHTTPRequestHandler):
                                  <meta charset="utf-8">
                                  <title>Gene seq</title>
                                </head>
-                               <body style="background-color: #7cc3f3;">
+                               <body style="background-color: #DAF7A6;">
                                  <h1>Gene Sequence</h1>
                                  <l>{}: {}</l>
                                  <br><br>
@@ -350,7 +350,7 @@ class TestHandler(http.server.BaseHTTPRequestHandler):
                                  <meta charset="utf-8">
                                  <title>Gene Info</title>
                                </head>
-                               <body style="background-color: #7cc3f3;">
+                               <body style="background-color: #DAF7A6;">
                                  <h1>Human gene information</h1>
                                  <p>{} <p>
                                  <p>start:{}<p>
@@ -455,7 +455,7 @@ class TestHandler(http.server.BaseHTTPRequestHandler):
                                  <meta charset="utf-8">
                                  <title>Gene Calc</title>
                                </head>
-                               <body style="background-color: #7cc3f3;">
+                               <body style="background-color: #DAF7A6;">
                                  <h1>Human gene calculations - Percentage of each base</h1>
                                  <p>{} <p>
                                  <p>Length: {}<p>
@@ -521,7 +521,7 @@ class TestHandler(http.server.BaseHTTPRequestHandler):
                                          <meta charset="utf-8">
                                          <title>Gene list</title>
                                        </head>
-                                       <body style="background-color: #7cc3f3;">
+                                       <body style="background-color: #DAF7A6;">
                                          <h1>List of genes</h1>
                                          <l>{}</l>
                                          <br><br>
